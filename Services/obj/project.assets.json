@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\roughCode\\Elevators-ByRaas\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\roughCode\\Elevators-ByRaas\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Patterns Tech\\.nuget\\packages\\",
-      "outputPath": "C:\\roughCode\\Elevators-ByRaas\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patterns Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\roughCode\\Elevators-ByRaas\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\roughCode\\Elevators-ByRaas\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\roughCode\\Elevators-ByRaas\\Models\\Models.csproj": {
-              "projectPath": "C:\\roughCode\\Elevators-ByRaas\\Models\\Models.csproj"
+            "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Models\\Models.csproj"
             }
           }
         }

@@ -292,11 +292,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\roughCode\\Elevators-ByRaas\\Elevators-ByRaas\\Elevators-ByRaas.csproj",
+      "projectUniqueName": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Elevators-ByRaas\\Elevators-ByRaas.csproj",
       "projectName": "Elevators-ByRaas",
-      "projectPath": "C:\\roughCode\\Elevators-ByRaas\\Elevators-ByRaas\\Elevators-ByRaas.csproj",
+      "projectPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Elevators-ByRaas\\Elevators-ByRaas.csproj",
       "packagesPath": "C:\\Users\\Patterns Tech\\.nuget\\packages\\",
-      "outputPath": "C:\\roughCode\\Elevators-ByRaas\\Elevators-ByRaas\\obj\\",
+      "outputPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Elevators-ByRaas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patterns Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -313,8 +313,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\roughCode\\Elevators-ByRaas\\Services\\Services.csproj": {
-              "projectPath": "C:\\roughCode\\Elevators-ByRaas\\Services\\Services.csproj"
+            "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Services\\Services.csproj"
             }
           }
         }

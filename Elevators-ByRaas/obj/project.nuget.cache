@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+RrO4Fz72Q5bthnXF9Ula6WsgC0ErC/rZBNno8/o0LDLuL2IOpK3dIy1a9JSf8yAtPdxIWndkIyVJyYTFCGog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patterns Tech\\OneDrive - Patterns Tech\\The Course\\Rough\\elev\\Elevators\\Elevators-ByRaas\\Elevators-ByRaas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\pxtlca.xmlcommentmarkdowngenerator\\0.2.6270.2853\\pxtlca.xmlcommentmarkdowngenerator.0.2.6270.2853.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Patterns Tech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
